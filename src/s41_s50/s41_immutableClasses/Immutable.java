@@ -8,7 +8,10 @@ public class Immutable {
         if (t == s) System.out.println("two");
         if (t.equals(s)) System.out.println("three");
         if ("Hello" == s) System.out.println("four");
+
+
         if ("Hello" == t) System.out.println("five");
+        if ("Hello" == s) System.out.println("six");
 
     }
 }
