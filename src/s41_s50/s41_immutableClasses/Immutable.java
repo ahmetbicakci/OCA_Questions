@@ -11,7 +11,12 @@ public class Immutable {
 
 
         if ("Hello" == t) System.out.println("five");
+
         if ("Hello" == s) System.out.println("six");
+
+        if ("hello"==s) System.out.println("four");
+        if ("hello"==t) System.out.println("seven")
+
 
     }
 }

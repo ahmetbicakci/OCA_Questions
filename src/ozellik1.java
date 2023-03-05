@@ -10,8 +10,14 @@ public class ozellik1 {
 
 
 
+
         System.out.println("cakisma oldu");
         System.out.println("cakisma oldu2");
+
+        System.out.println("Ahmet branch'inde ikinci degisiklik kendime ozel class da");
+
+
+
 
 
     }
