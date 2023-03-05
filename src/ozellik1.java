@@ -6,5 +6,13 @@ public class ozellik1 {
         System.out.println("Ahmet branch'nda calisiyorum");
 
 
+
+
+
+
+        System.out.println("cakisma oldu");
+        System.out.println("cakisma oldu2");
+
+
     }
 }
